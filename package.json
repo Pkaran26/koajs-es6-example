@@ -13,13 +13,8 @@
     "@hapi/joi": "^17.1.1",
     "cors": "^2.8.5",
     "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
-    "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
-    "gulp-less": "^4.0.1",
-    "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2",
-    "gulp-util": "^3.0.8",
     "koa": "^2.12.1",
     "koa-bodyparser": "^4.3.0",
     "koa-logger": "^3.2.1",
@@ -28,7 +23,6 @@
     "less": "^3.11.3",
     "moment": "^2.26.0",
     "mongodb": "^3.5.9",
-    "natives": "^1.1.6",
     "nodemon": "^2.0.4"
   },
   "devDependencies": {
