@@ -5,6 +5,8 @@ import bodyParser from 'koa-bodyparser'
 import DBPool from './Utils/dbPool.js'
 import blogRouter from './Routes/blogRouter.js'
 import mongodb from 'mongodb'
+import concatFiles from './front/main.js'
+// concatFiles()
 
 const app = new koa()
 const server = http.createServer(app.callback())
